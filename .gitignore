@@ -1,0 +1,16 @@
+# Arduino build files
+*.elf
+*.hex
+*.bin
+*.d
+*.o
+*.a
+*.map
+*.out
+
+# Arduino backup and temp files
+*~
+*.swp
+
+# Build folders
+build/
